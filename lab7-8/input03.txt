@@ -1,0 +1,7 @@
+counter = counter + 1;
+
+x=x+1;
+
+value   =   value + 1;
+
+index = index+1;

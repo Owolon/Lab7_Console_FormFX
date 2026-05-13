@@ -1,0 +1,7 @@
+int break_flag = 0;
+
+while_flag = 10;
+
+ifCounter = 5;
+
+returnValue = 1;
